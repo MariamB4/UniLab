@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'bpgninomtavruli';
+    src: url('../fonts/bpgninomtavruli.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpgninomtavruli.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpgninomtavruli.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpgninomtavruli.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpgninomtavruli.svg#bpg_nino_mtavruliregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'bpgninomtavrulibold';
+    src: url('../fonts/bpgninomtavrulibold.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpgninomtavrulibold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpgninomtavrulibold.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpgninomtavrulibold.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpgninomtavrulibold.svg#bpg_nino_mtavrulibold') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'bgpingiriarial';
+    src: url('../fonts/bpgingiriarial.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpgingiriarial.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpgingiriarial.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpgingiriarial.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpgingiriarial.svg#bpg_ingiri_arialregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts/robotomedium.eot');
+    src: url('../fonts/robotomedium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/robotomedium.woff2') format('woff2'),
+        url('../fonts/robotomedium.woff') format('woff'),
+        url('../fonts/robotomedium.svg#Roboto-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
